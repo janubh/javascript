@@ -1,5 +1,4 @@
 "us strict;"// newly js all code//
-
 //alert(3 +3)//
 
 
@@ -17,7 +16,5 @@ let isloggedIn = false
 
 
 //object
-
-
-
 console.log(typeof "janvi");
+console.log (typeof age);
